@@ -10,7 +10,7 @@ missions/
 physicsobj/
 screens/
 weapons/
-*.qvm
+
 *.exe
 *.AFP 
 *.url
