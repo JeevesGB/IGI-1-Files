@@ -1,0 +1,17 @@
+ammo/ 
+animtrigger/
+common/
+computer/
+humanplayer/
+language/
+magicobj/
+material/
+menusystem/
+missions/
+physicsobj/
+screens/
+weapons/
+*.qvm
+*.exe
+*.AFP 
+*.url
