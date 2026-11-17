@@ -1,7 +1,13 @@
 
-common/
+common/ai/
+common/anims/
+common/sounds/
+common/sprites/
+common/textures/
+common/common.dat
+common/common.mtp
 
-material/
+
 
 
 missions/location0/common/
